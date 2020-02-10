@@ -37,7 +37,7 @@ public class MyCalculator {
 	{
 		sc = new Scanner(System.in);
 		System.out.print("Enter 1st number :");
-		int num1 = sc.nextInt();
+		int num1 = sc.nextInt(); 
 		System.out.print("Enter 2nd number :");
 		int num2 = sc.nextInt();
 		System.out.print("Enter operator :");
